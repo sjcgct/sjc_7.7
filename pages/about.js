@@ -14,7 +14,7 @@ export default function AboutPage() {
         <section className="mb-12">
           <h2 className="title text-2xl md:text-3xl mb-4">Our Mission</h2>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
-	The optimised utilisation and enhancement of students' enthusiasm in the field of journalism through reporting, visual design, photography and all the wings, the newsletter demands.	A unique platform that serves the students, an inspiration from various wings.
+	The optimised utilisation and enhancement of students enthusiasm in the field of journalism through reporting, visual design, photography and all the wings, the newsletter demands.	A unique platform that serves the students, an inspiration from various wings.
  To act as a genuine reference to represent GCT in diverse platforms
           </p>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700">
