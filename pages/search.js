@@ -14,7 +14,7 @@ export default function SearchPage({ results, searchQuery }) {
         <p className="text-gray-600 dark:text-white text-lg">
           {results.length} result{results.length !== 1 && "s"} found for{" "}
           <span className="font-semibold">
-            &quot;{searchQuery}&quot;
+            &ldquo;{searchQuery}&rdquo;
           </span>
         </p>
       </div>

@@ -28,17 +28,8 @@ The Student Journalist Council (SJC) officially came into existence on 24 Decemb
           <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
           In 2013, a group of students interested in journalism realized that there was no platform where students could openly share their thoughts without fear of judgment or discrimination. Consequently, they founded the Student Journalist Council (SJC) on 24 December 2013 with the objective of promoting informed, student-led journalism.
           </p>
-          <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo.
-          </p>
-          <p className="content text-base md:text-lg leading-relaxed text-grey-700">
-            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-            fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt.
-          </p>
+          <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4"></p>
+          
         </section>
 
         {/* What We Do Section */}
