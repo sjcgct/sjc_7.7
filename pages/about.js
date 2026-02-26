@@ -14,16 +14,11 @@ export default function AboutPage() {
         <section className="mb-12">
           <h2 className="title text-2xl md:text-3xl mb-4">Our Mission</h2>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+	The optimised utilisation and enhancement of students' enthusiasm in the field of journalism through reporting, visual design, photography and all the wings, the newsletter demands.	A unique platform that serves the students, an inspiration from various wings.
+ To act as a genuine reference to represent GCT in diverse platforms
           </p>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+The Student Journalist Council (SJC) officially came into existence on 24 December 2013, with the primary objective of fostering and promoting the spirit of student-led journalism within the college. It was created as a space where students could express themselves confidently, learn collaboratively, and contribute to something that would represent GCT on diverse platforms for years to come.
           </p>
         </section>
 
@@ -31,11 +26,7 @@ export default function AboutPage() {
         <section className="mb-12">
           <h2 className="title text-2xl md:text-3xl mb-4">Our History</h2>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Founded in
-            2010, the Students&apos; Journalism Council has been the voice of the
-            student community for over a decade. What started as a small group
-            of passionate writers has grown into a full-fledged media
-            organization.
+          In 2013, a group of students interested in journalism realized that there was no platform where students could openly share their thoughts without fear of judgment or discrimination. Consequently, they founded the Student Journalist Council (SJC) on 24 December 2013 with the objective of promoting informed, student-led journalism.
           </p>
           <p className="content text-base md:text-lg leading-relaxed text-grey-700 mb-4">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -57,30 +48,25 @@ export default function AboutPage() {
             <div className="bg-white p-6 border border-grey-200">
               <h3 className="title text-xl mb-2">Stories</h3>
               <p className="content text-grey-600">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. We
-                cover campus news, student achievements, and stories that
-                matter.
+                We cover campus news, student achievements, and stories that matter.
               </p>
             </div>
             <div className="bg-white p-6 border border-grey-200">
               <h3 className="title text-xl mb-2">Humans of GCT</h3>
               <p className="content text-grey-600">
-                Sed do eiusmod tempor incididunt ut labore. Personal stories
-                and interviews with the people who make our campus vibrant.
+                Personal stories and interviews with the people who make our campus vibrant.
               </p>
             </div>
             <div className="bg-white p-6 border border-grey-200">
               <h3 className="title text-xl mb-2">AlumSpace</h3>
               <p className="content text-grey-600">
-                Ut enim ad minim veniam, quis nostrud exercitation. Connecting
-                current students with alumni experiences and wisdom.
+                Connecting current students with alumni experiences and wisdom.
               </p>
             </div>
             <div className="bg-white p-6 border border-grey-200">
               <h3 className="title text-xl mb-2">Aperture</h3>
               <p className="content text-grey-600">
-                Duis aute irure dolor in reprehenderit. Our visual newsletter
-                capturing campus life through photography and design.
+                 Our visual newsletter capturing campus life through photography and design.
               </p>
             </div>
           </div>
