@@ -1,0 +1,33 @@
+{
+  "navigation": {
+    "home": "Home",
+    "blogs": "Blogs",
+    "aperture": "Aperture",
+    "humansOfGct": "Humans of GCT",
+    "alumspace": "AlumSpace",
+    "sjcChannel": "SJC GCT Channel",
+    "about": "About",
+    "team": "Team",
+    "stories": "Stories"
+  },
+  "common": {
+    "search": "Search",
+    "searchPlaceholder": "Search...",
+    "language": "Language",
+    "english": "English",
+    "tamil": "Tamil",
+    "hindi": "Hindi"
+  },
+  "homepage": {
+    "recentStories": "Recent Stories",
+    "humansOfGct": "Humans of GCT",
+    "alumspace": "AlumSpace",
+    "abcChannel": "SJC GCT Channel"
+  },
+  "footer": {
+    "connectWithUs": "Connect With Us",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "allRightsReserved": "All rights reserved"
+  }
+}
